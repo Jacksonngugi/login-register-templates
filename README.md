@@ -1,4 +1,4 @@
-# Login and register forms
+# Login and signup forms
 ___
 These are colorful login and register templates built using html,css and javascript.
 
